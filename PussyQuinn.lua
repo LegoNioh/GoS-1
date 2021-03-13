@@ -37,12 +37,12 @@ do
         Lua = {
             Path = SCRIPT_PATH,
             Name = "PussyQuinn.lua",
-            Url = "https://raw.githubusercontent.com/Impulsx/GoS/master/PussyQuinn.lua"
+            Url = "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/PussyQuinn.lua"
         },
         Version = {
             Path = SCRIPT_PATH,
             Name = "PussyQuinn.version",
-            Url = "https://raw.githubusercontent.com/Impulsx/GoS/master/PussyQuinn.version"
+            Url = "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/PussyQuinn.version"
         }
     }
     
