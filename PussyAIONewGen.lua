@@ -22,9 +22,9 @@ end
 
 local function AutoUpdate()
 	local CHAMP_PATH			= AUTO_PATH..'Champions/'
-	local SCRIPT_URL			= "https://raw.githubusercontent.com/Impulsx/GoS/master/"
-	local AUTO_URL				= "https://raw.githubusercontent.com/Impulsx/GoS/master/AIOChampions/"
-	local CHAMP_URL				= "https://raw.githubusercontent.com/Impulsx/GoS/master/AIOChampions/Champions/"
+	local SCRIPT_URL			= "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/"
+	local AUTO_URL				= "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/AIOChampions/"
+	local CHAMP_URL				= "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/AIOChampions/Champions/"
 	local oldVersion			= "currentVersion.lua"
 	local newVersion			= "newVersion.lua"
 	--
