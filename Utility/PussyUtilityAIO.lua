@@ -6,12 +6,12 @@ do
         Lua = {
             Path = SCRIPT_PATH,
             Name = "PussyUtilityAIO.lua",
-            Url = "https://raw.githubusercontent.com/Impulsx/GoS/master/Utility/PussyUtilityAIO.lua"
+            Url = "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/Utility/PussyUtilityAIO.lua"
         },
         Version = {
             Path = SCRIPT_PATH,
             Name = "PussyUtilityAIO.version",
-            Url = "https://raw.githubusercontent.com/Impulsx/GoS/master/Utility/PussyUtilityAIO.version"
+            Url = "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/Utility/PussyUtilityAIO.version"
         }
     }
     
