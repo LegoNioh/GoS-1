@@ -12,12 +12,12 @@ do
         {
             Path = SCRIPT_PATH,
             Name = "SimbleActivator.lua",
-            Url = "https://raw.githubusercontent.com/Impulsx/GoS/master/SimbleActivator.lua"
+            Url = "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/SimbleActivator.lua"
         },
         Version = {
             Path = SCRIPT_PATH,
             Name = "SimbleActivator.version",
-            Url = "https://raw.githubusercontent.com/Impulsx/GoS/master/SimbleActivator.version"
+            Url = "https://raw.githubusercontent.com/LegoNioh/GoS-1/master/SimbleActivator.version"
         },
     }
     
